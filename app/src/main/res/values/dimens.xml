@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    //Text sizes related
+    <dimen name="txt_size_24">24sp</dimen>
+    <dimen name="txt_size_2">2sp</dimen>
+    <dimen name="txt_size_20">20sp</dimen>
+    <dimen name="txt_size_3">3sp</dimen>
+
+    //Margin related
+    <dimen name="margin_25">25dp</dimen>
+
+    <dimen name="margin_150">150dp</dimen>
+    <dimen name="margin_72">72dp</dimen>
+    <dimen name="margin_48">48dp</dimen>
+    <dimen name="margin_106">106dp</dimen>
+    <dimen name="margin_26">26dp</dimen>
+
+    //Dimens related (1DP = 1DP)
+    <dimen name="dimens_120sdp">120.00dp</dimen>
+    <dimen name="dimens_5sdp">5.00dp</dimen>
+    <dimen name="dimens_40sdp">40.00dp</dimen>
+    <dimen name="dimens_25sdp">25.00dp</dimen>
+    <dimen name="dimens_140sdp">140.00dp</dimen>
+    <dimen name="dimens_60sdp">60.00dp</dimen>
+    <dimen name="dimens_32sdp">32.00dp</dimen>
+    <dimen name="dimens_64sdp">64.00dp</dimen>
+    <dimen name="dimens_30sdp">30.00dp</dimen>
+    <dimen name="dimens_70sdp">70.00dp</dimen>
+    <dimen name="dimens_23sdp">23.00dp</dimen>
+
+</resources>

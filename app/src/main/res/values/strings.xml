@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">RecyclerView</string>
+
+    <string name="n_height">Height</string>
+    <string name="n_lenght">Lenght</string>
+    <string name="n_width">Width</string>
+    <string name="n_maximum_axle">Maximum axle load of a tandem axle vehicle</string>
+    <string name="n_current_weight">Current Weight</string>
+    <string name="n_axel_maximum_weight">1-Axel Maximum weight</string>
+    <string name="n_number_of_axles">Number of axles</string>
+    <string name="n_number_of_trailers">Number of trailers</string>
+    <string name="n_tunnel_restrictions">Tunnel restrictions</string>
+    <string name="n_hazardous_load">Hazardous load</string>
+    <string name="n_bk_roads">BK Roads</string>
+
+    <string name="n_full_vehicle_height">Full vehicle height</string>
+    <string name="n_full_vehicle_lenght">Full vehicle lenght</string>
+    <string name="n_info">Info</string>
+    <string name="n_full_vehicle_width">Full vehicle width</string>
+    <string name="n_current_weight_of_vehicle">Current weight of vehicle</string>
+    <string name="n_total_number_of_trailers_added">Total number of trailers added</string>
+    <string name="n_explosive" tools:ignore="ExtraTranslation">Explosive, Gases, Flamable Liquides, Flamable Solides</string>
+    <string name="n_off">Off</string>
+
+</resources>
