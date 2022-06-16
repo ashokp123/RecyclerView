@@ -25,7 +25,6 @@ class CustomAdapter(private val mList: List<ItemsViewModel>) : RecyclerView.Adap
 		return src
 	}
 
-
 	// binds the list items to a view
 	override fun onBindViewHolder(holder: ViewHolder, position: Int) {
 
